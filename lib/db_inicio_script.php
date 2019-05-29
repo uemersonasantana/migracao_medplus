@@ -1,4 +1,9 @@
 <?php
+/*
+  Autor: Uemerson A. Santana - uemerson@korbantech.com.br
+  29/05/2019
+*/
+
 // Desabilita tempo máximo de execução
 set_time_limit(0);
 

@@ -1,6 +1,11 @@
 <?php
 #!/usr/bin/php
 
+/*
+  Autor: Uemerson A. Santana - uemerson@korbantech.com.br
+  29/05/2019
+*/
+
 // Seta Nome do Script
 $sNomeScript = basename(__FILE__);
 

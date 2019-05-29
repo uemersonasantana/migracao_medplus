@@ -1,4 +1,9 @@
 <?php
+/*
+  Autor: Uemerson A. Santana - uemerson@korbantech.com.br
+  29/05/2019
+*/
+  
 include("db_inicio_script.php");
 
 define( 'MYSQL_HOST', 'localhost' );

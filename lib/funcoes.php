@@ -1,4 +1,9 @@
 <?php
+/*
+  Autor: Uemerson A. Santana - uemerson@korbantech.com.br
+  29/05/2019
+*/
+
     // Funcao para dar Echo dos Logs - retorna o TimeStamp
     //
     // Tipos: 0 = Saida Tela e Arquivo

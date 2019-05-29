@@ -19,7 +19,7 @@ $pConexaoDestino->query('
 	TRUNCATE migra_procedimento;');
 db_log("Limpando tabelas", $sArquivoLog, 1, true, true);
 
-// Início do script o banco.
+// Início do script no banco.
 $pConexaoDestino->query( 'BEGIN' );
 
 $bErro = false;

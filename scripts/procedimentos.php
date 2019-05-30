@@ -31,7 +31,7 @@ $t_profissional_repetido	= 0;
 $t_procedimento_repetido	= 0;
 
 // Busca o arquivo csv.
-$file = fopen('/var/www/html/migracao_medplus/scripts/csv/arquivo.csv', 'r');
+$file = fopen('/var/www/html/migracao_medplus/scripts/csv/procedimentos.csv', 'r');
 
 // Lista os dados do arquivo csv.
 while (($line = fgetcsv($file)) !== false ) {
